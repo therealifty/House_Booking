@@ -157,6 +157,34 @@ A detailed project report is available for further documentation, including:
 * Future Enhancements
 
 📥 **Download Report:** [House Booking System Report](House_Booking_System_Report..pdf)
+## 📋 Project Management
+
+To ensure efficient planning, collaboration, and progress tracking throughout the development process, our team utilized **Trello** as the primary project management tool.
+
+Through Trello, team members were able to organize tasks, monitor development progress, manage deadlines, and coordinate project activities effectively.
+
+### Workflow Structure
+
+* 📝 To Do
+* 🚧 In Progress
+* ✅ Completed
+
+### Managed Activities
+
+* UI/UX Design
+* Firebase Integration
+* Authentication System
+* Booking Workflow Development
+* Admin Panel Implementation
+* Testing & Debugging
+* Documentation
+
+### Project Board
+
+🔗 **Trello Board:**
+https://trello.com/b/qWhNCWCW/mad-project-house-booking
+
+The Trello board contains task assignments, project milestones, progress tracking, and development workflow used throughout the project lifecycle.
 
 
 ## 👥 Team Visionaries
