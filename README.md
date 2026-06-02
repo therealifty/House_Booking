@@ -138,6 +138,26 @@ app/
 ```
 
 ---
+## 📑 Project Report
+
+A detailed project report is available for further documentation, including:
+
+* Abstract
+* Problem Statement
+* Objectives
+* System Architecture
+* System Requirements
+* Use Case Diagram
+* Data Flow Diagram (DFD)
+* Database Design
+* Security Features
+* Methodology
+* Implementation Details
+* Screenshots
+* Future Enhancements
+
+📥 **Download Report:** [House Booking System Report](House_Booking_System_Report.pdf)
+
 
 ## 👥 Team Visionaries
 
