@@ -1,0 +1,178 @@
+# 🏠 House Booking System
+
+A modern Android-based House Booking System developed using **Kotlin**, **Jetpack Compose**, and **Firebase**. The application provides a structured booking workflow, role-based access control, and centralized property management for a better rental experience.
+
+---
+
+## 📖 Overview
+
+Traditional rental platforms mainly focus on property listings and direct communication. This project introduces a more organized booking system where users can browse properties, submit booking requests, track booking status, and interact through a controlled workflow.
+
+The system is designed to improve transparency, user experience, and administrative control in the house rental process.
+
+---
+
+## 🚀 Features
+
+### 🔐 Authentication & Access Control
+
+* User Login & Registration
+* Firebase Authentication
+* Role-Based Access (User / Admin / Guest)
+
+### 🏠 Property Management
+
+* Browse Available Properties
+* Property Filtering
+* Detailed Property Information
+* Property Request System
+
+### 📅 Booking Workflow
+
+* Submit Booking Requests
+* Booking Approval System
+* Booking Status Tracking
+* Scheduled Booking Management
+
+### ⭐ User Experience
+
+* Favorites System
+* Reviews & Comments
+* Profile Tracking
+* Modern UI with Jetpack Compose
+
+### 🛡️ Admin Panel
+
+* Manage Properties
+* Manage Users
+* Monitor Bookings
+* Centralized Administrative Control
+
+---
+
+## 🏗️ System Architecture
+
+The project follows a **Three-Layer Architecture**:
+
+### Presentation Layer
+
+* Built using Jetpack Compose
+* Handles UI and user interactions
+
+### Application Layer
+
+* Handles business logic
+* Booking workflow management
+* Navigation and user roles
+
+### Data Layer
+
+* Firebase Authentication
+* Cloud Firestore Database
+* Data Storage & Retrieval
+
+---
+
+## 🛠️ Technology Stack
+
+| Technology              | Purpose                 |
+| ----------------------- | ----------------------- |
+| Kotlin                  | Android Development     |
+| Jetpack Compose         | User Interface          |
+| Firebase Authentication | Authentication          |
+| Cloud Firestore         | Database                |
+| Android Studio          | Development Environment |
+
+---
+
+## 📱 Screens Included
+
+* Login Screen
+* Home Screen
+* Property Details Screen
+* Booking Request Screen
+* Admin Panel
+* Booking Schedule Screen
+
+---
+
+## 🎯 Objectives
+
+* Create a structured booking workflow
+* Improve transparency in booking approval
+* Provide role-based access control
+* Enhance property management efficiency
+* Deliver a user-friendly rental platform
+
+---
+
+## ⚡ Advantages
+
+* Structured Booking System
+* Easy Booking Tracking
+* Better Administrative Control
+* User-Friendly Interface
+
+---
+
+## 🔮 Future Enhancements
+
+* bKash & Nagad Payment Integration
+* Real-Time Chat System
+* Google Maps Integration
+* AI-Based Property Recommendations
+* Push Notifications
+
+---
+
+## 📂 Project Structure
+
+```bash
+app/
+├── screens/
+├── data_util/
+├── firebase/
+├── navigation/
+├── models/
+└── resources/
+```
+
+---
+
+## 👥 Team Visionaries
+
+| Name                    | Student ID       |
+| ----------------------- | ---------------- |
+| Ifty Anwar              | 0222320005101192 |
+| Thanjilur Rahman Sayeed | 0222320005101162 |
+| Urmi Das                | 0222320005101164 |
+| Al Amin                 | 0222320005101200 |
+
+---
+
+## 🎓 Academic Project
+
+**Course:** Mobile Application Development (CSE 2210)
+
+**Department:** Computer Science & Engineering
+
+**Institution:** Premier University, Chattogram
+
+---
+
+## 📚 References
+
+* Tolet BD
+* Firebase Documentation
+* Android Developer Documentation
+* Jetpack Compose Documentation
+
+---
+
+## ⭐ Support
+
+If you found this project useful, consider giving it a **⭐ Star** on GitHub!
+
+---
+
+### Developed with by Team Visionaries
